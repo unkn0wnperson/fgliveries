@@ -1,2 +1,2 @@
-This livery is an adapted from FGUK’s F-5E USNVFC13 
-This work is under Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported license. Check LICENSE.txt file
+This livery is an adapted from FGUKâ€™s F-5E USNVFC13 
+This work is under the GPLv2 license.
